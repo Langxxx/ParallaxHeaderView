@@ -28,6 +28,10 @@
 
 [id4]: http://www.jianshu.com/p/267b678114e6
 
+#测试环境
+* xcode7
+* swift2.0
+
 #怎么使用
 导入**ParallaxHeaderView.swift**与**NavigationBarExtension.swift**,具体看示例程序。
 
