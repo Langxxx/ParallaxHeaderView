@@ -14,9 +14,9 @@
 
 [swift/制作一个简单的tableHeaderview+_navigationbar渐变效果(二)][id2]
 
-[id1]: http://blog.csdn.net/u014051401/article/details/49622627"
+[id1]: http://blog.csdn.net/u014051401/article/details/49622627
 
-[id2]: "
+[id2]: http://blog.csdn.net/u014051401/article/details/49661663
 
 *简书地址
 
@@ -24,9 +24,9 @@
 
 [swift/制作一个简单的tableHeaderview+_navigationbar渐变效果(二)][id4]
 
-[id3]: http://www.jianshu.com/p/267b678114e6"
+[id3]: http://www.jianshu.com/p/c04323679ab6
 
-[id4]: http://www.jianshu.com/p/267b678114e6"
+[id4]: http://www.jianshu.com/p/267b678114e6
 
 #怎么使用
 导入**ParallaxHeaderView.swift**与**NavigationBarExtension.swift**,具体看示例程序。
